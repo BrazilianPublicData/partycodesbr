@@ -26,6 +26,7 @@ remotes::install_github("BrazilianPublicData/partycodesbr")
 
 ## Usage
 
-```{r eval = FALSE}
+```{r}
+library(partycodesbr)
 tse_codes()
 ```
